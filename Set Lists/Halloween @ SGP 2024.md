@@ -1,0 +1,11 @@
+- [[Danse Macabre]]
+- [[In the Hall of the Mountain King]]
+- [[I Put A Spell On You]]
+- [[Night on Bald Mountain]]
+- [[Murder on the Dancefloor]]
+- INTERVAL
+- [[Spooky Basement Medley!]]
+- [[Valse Triste]]
+- [[Noon Witch]]
+- ENCORE
+- [[Thriller]]
