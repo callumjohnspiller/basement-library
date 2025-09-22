@@ -1,6 +1,6 @@
 | Instrument            | Number of Physical Parts | Link to .pdf | Owner      |
 | --------------------- | ------------------------ | ------------ | ---------- |
-| [[SATB]] Voice        | 20                       |              | [[Phil]]   |
+| [[SATB]] Voice        | 19                       |              | [[Claire]] |
 | Flute 1 + 2           | 3                        |              | [[Claire]] |
 | Oboes 1 + 2           | 2                        |              | [[Claire]] |
 | Clarinets in Bb 1 + 2 | 2                        |              | [[Claire]] |
@@ -12,7 +12,7 @@
 | Glockenspiel          | 1                        |              | [[Claire]] |
 | Sleigh Bells          | 1                        |              | [[Claire]] |
 | Violin 1              | 11                       |              | [[Claire]] |
-| Violin 2              | 5                        |              | [[Claire]] |
+| Violin 2              | 8                        |              | [[Claire]] |
 | Viola                 | 4                        |              | [[Claire]] |
-| Cello                 | 4                        |              | [[Claire]] |
+| Cello                 | 5                        |              | [[Claire]] |
 | Double Bass           | 2                        |              | [[Claire]] |

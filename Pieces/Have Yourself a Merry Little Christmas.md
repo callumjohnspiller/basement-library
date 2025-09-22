@@ -1,8 +1,8 @@
 | Instrument      | Number of Physical Parts | Link to .pdf | Owner      |
 | --------------- | ------------------------ | ------------ | ---------- |
-| [[SATB]] Voices | 19                       |              | [[Phil]]   |
+| [[SATB]] Voices | 19                       |              | [[Claire]] |
 | Flute           | 2                        |              | [[Claire]] |
-| Piccolo         | 1                        |              | [[Claire]] |
+| Piccolo         | 2                        |              | [[Claire]] |
 | Oboe            | 2                        |              | [[Claire]] |
 | Clarinet        | 2                        |              | [[Claire]] |
 | Bassoon         | 2                        |              | [[Claire]] |
@@ -14,7 +14,7 @@
 | Trombone 2      | 1                        |              | [[Claire]] |
 | Glockenspiel    | 1                        |              | [[Claire]] |
 | Violin 1        | 7                        |              | [[Claire]] |
-| Violin 2        | 5                        |              | [[Claire]] |
+| Violin 2        | 7                        |              | [[Claire]] |
 | Viola           | 4                        |              | [[Claire]] |
 | Cello           | 4                        |              | [[Claire]] |
 | Contrabass      | 2                        |              | [[Claire]] |
