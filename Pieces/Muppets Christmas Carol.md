@@ -1,6 +1,6 @@
 | Instrument          | Number of Physical Parts | Link to .pdf | Owner      |
 | ------------------- | ------------------------ | ------------ | ---------- |
-| [[SATB]] Voices     | 20                       |              | [[Phil]]   |
+| [[SATB]] Voices     | 19                       |              | [[Phil]]   |
 | Flute 1             | 1                        |              | [[Claire]] |
 | Flute 2             | 1                        |              | [[Claire]] |
 | Flute 3             | 1                        |              | [[Claire]] |
@@ -24,7 +24,7 @@
 | Percussion          | 3                        |              | [[Claire]] |
 | Piano               | 1                        |              | [[Claire]] |
 | Violin 1            | 7                        |              | [[Claire]] |
-| Violin 2            | 6                        |              | [[Claire]] |
+| Violin 2            | 7                        |              | [[Claire]] |
 | Viola               | 4                        |              | [[Claire]] |
 | Cello               | 4                        |              | [[Claire]] |
 | Double Bass         | 2                        |              | [[Claire]] |
